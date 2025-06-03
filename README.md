@@ -97,11 +97,9 @@
 
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+| ![Banner](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
 
-
-
-<div align="Center">
+<div align="center">
 
 | My Stats | Streak |
 | ------------- | ------------- |
@@ -110,6 +108,9 @@
 | Top Languages |
 | ------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAimar8&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+
+</div>
+
 
 
 </div>
