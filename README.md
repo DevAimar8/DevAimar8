@@ -95,9 +95,10 @@
 <br>
 <br>
 
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![Banner](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
+| Snake Eating Contributions in the Last Year |
+| ------------------------------------------- |
+| ![snake gif](https://github.com/DevAimar8/DevAimar8/blob/output/github-contribution-grid-snake.svg) |
+
 
 <div align="center">
 
