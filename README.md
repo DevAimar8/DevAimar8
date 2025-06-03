@@ -35,49 +35,37 @@
 
 ## 🚀 Algunos Proyectos Destacados
 
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <a href="https://github.com/DevAimar8/CalculadoraFlutter">
-        <img src="https://raw.githubusercontent.com/DevAimar8/CalculadoraFlutter/main/preview.png" alt="Calculadora Flutter" width="100%" />
-      </a>
-      <br />
-      <a href="https://github.com/DevAimar8/CalculadoraFlutter">
-        <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" />
-      </a>
-    </td>
+<p align="center">
 
-    <td width="25%" align="center">
-      <a href="https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece">
-        <img src="https://raw.githubusercontent.com/DevAimar8/VisualizadorPersonajes-OnePiece/main/preview.png" alt="Visualizador One Piece" width="100%" />
-      </a>
-      <br />
-      <a href="https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece">
-        <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" />
-      </a>
-    </td>
+  <!-- Proyecto 1 -->
+  <a href="https://github.com/DevAimar8/CalculadoraFlutter" target="_blank">
+    <img src="https://github.com/DevAimar8/CalculadoraFlutter/raw/main/preview.png" alt="Calculadora Flutter" width="250" style="border-radius: 10px; margin: 10px;" />
+    <br />
+    <img src="https://img.shields.io/badge/Calculadora%20Flutter-Repo-black?style=for-the-badge&logo=github" alt="Calculadora Flutter repo" />
+  </a>
 
-    <td width="25%" align="center">
-      <a href="https://github.com/DevAimar8/VAARI">
-        <img src="https://raw.githubusercontent.com/DevAimar8/VAARI/main/preview.png" alt="VAARI App" width="100%" />
-      </a>
-      <br />
-      <a href="https://github.com/DevAimar8/VAARI">
-        <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" />
-      </a>
-    </td>
+  <!-- Proyecto 2 -->
+  <a href="https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece" target="_blank">
+    <img src="https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece/blob/main/onepiece.png" alt="Visualizador One Piece" width="250" style="border-radius: 10px; margin: 10px;" />
+    <br />
+    <img src="https://img.shields.io/badge/Visualizador%20One%20Piece-Repo-black?style=for-the-badge&logo=github" alt="Visualizador One Piece repo" />
+  </a>
 
-    <td width="25%" align="center">
-      <a href="https://github.com/DevAimar8/UNIP">
-        <img src="https://raw.githubusercontent.com/DevAimar8/UNIP/main/preview.png" alt="UNIP App" width="100%" />
-      </a>
-      <br />
-      <a href="https://github.com/DevAimar8/UNIP">
-        <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <!-- Proyecto 3 -->
+  <a href="https://github.com/DevAimar8/VAARI" target="_blank">
+    <img src="https://github.com/DevAimar8/VAARI/raw/main/preview.png" alt="VAARI App" width="250" style="border-radius: 10px; margin: 10px;" />
+    <br />
+    <img src="https://img.shields.io/badge/VAARI-Repo-black?style=for-the-badge&logo=github" alt="VAARI repo" />
+  </a>
+
+  <!-- Proyecto 4 -->
+  <a href="https://github.com/DevAimar8/UNIP" target="_blank">
+    <img src="https://github.com/DevAimar8/UNIP/raw/main/preview.png" alt="UNIP App" width="250" style="border-radius: 10px; margin: 10px;" />
+    <br />
+    <img src="https://img.shields.io/badge/UNIP-Repo-black?style=for-the-badge&logo=github" alt="UNIP repo" />
+  </a>
+
+</p>
 
 ---
 
