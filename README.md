@@ -35,55 +35,33 @@
 
 ## 🚀 Algunos Proyectos Destacados
 
-<table align="center">
-  <tr>
+<p align="center">
+  <a href="https://github.com/DevAimar8/CalculadoraFlutter">
+    <img src="https://raw.githubusercontent.com/DevAimar8/CalculadoraFlutter/main/CalculadoraFlutter.png" width="200" alt="Calculadora Flutter"/>
+    <br/><strong>🧮 Calculadora Flutter</strong>
+  </a>
+</p>
 
-    <!-- Proyecto 1 -->
-    <td align="center" width="25%">
-      <a href="https://github.com/DevAimar8/CalculadoraFlutter" target="_blank">
-        <img src="https://github.com/DevAimar8/CalculadoraFlutter/blob/main/CalculadoraFlutter.png" alt="Calculadora Flutter" width="200px" />
-      </a>
-      <br />
-      <a href="https://github.com/DevAimar8/CalculadoraFlutter" target="_blank">
-        <img src="https://img.shields.io/badge/Calculadora%20Flutter-Repo-black?style=for-the-badge&logo=github" />
-      </a>
-    </td>
+<p align="center">
+  <a href="https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece">
+    <img src="https://raw.githubusercontent.com/DevAimar8/VisualizadorPersonajes-OnePiece/main/onepiece.png" width="200" alt="Visualizador One Piece"/>
+    <br/><strong>🏴‍☠️ Visualizador de Personajes (One Piece)</strong>
+  </a>
+</p>
 
-    <!-- Proyecto 2 -->
-    <td align="center" width="25%">
-      <a href="https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece" target="_blank">
-        <img src="https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece/blob/main/onepiece.png" alt="Visualizador One Piece" width="200px" />
-      </a>
-      <br />
-      <a href="https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece" target="_blank">
-        <img src="https://img.shields.io/badge/Visualizador%20One%20Piece-Repo-black?style=for-the-badge&logo=github" />
-      </a>
-    </td>
+<p align="center">
+  <a href="https://github.com/DevAimar8/VAARI">
+    <img src="https://raw.githubusercontent.com/DevAimar8/VAARI/main/VAARI.png" width="200" alt="VAARI App"/>
+    <br/><strong>🤖 VAARI – Asistente Virtual</strong>
+  </a>
+</p>
 
-    <!-- Proyecto 3 -->
-    <td align="center" width="25%">
-      <a href="https://github.com/DevAimar8/VAARI" target="_blank">
-        <img src="https://github.com/DevAimar8/VAARI/blob/main/VAARI.png" alt="VAARI App" width="200px" />
-      </a>
-      <br />
-      <a href="https://github.com/DevAimar8/VAARI" target="_blank">
-        <img src="https://img.shields.io/badge/VAARI-Repo-black?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-
-    <!-- Proyecto 4 -->
-    <td align="center" width="25%">
-      <a href="https://github.com/DevAimar8/UNIP" target="_blank">
-        <img src="https://github.com/DevAimar8/UNIP/blob/main/UNIP.png" alt="UNIP App" width="200px" />
-      </a>
-      <br />
-      <a href="https://github.com/DevAimar8/UNIP" target="_blank">
-        <img src="https://img.shields.io/badge/UNIP-Repo-black?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/DevAimar8/UNIP">
+    <img src="https://raw.githubusercontent.com/DevAimar8/UNIP/main/UNIP.png" width="200" alt="UNIP App"/>
+    <br/><strong>🎓 UNIP – Test Vocacional Universitario</strong>
+  </a>
+</p>
 
 ---
 
