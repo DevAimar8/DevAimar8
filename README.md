@@ -72,7 +72,7 @@
 
     <!-- UNIP -->
     <td width="25%" align="center">
-      <a href="https://github.com/DevAimar8/UNIP">
+      <a href="https://github.com/DevAimar8/UNIP.git">
         <img src="https://raw.githubusercontent.com/DevAimar8/UNIP/main/preview.png" alt="UNIP App" width="100%" />
       </a>
       <br />
