@@ -108,10 +108,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DevAimar8&theme=radical&row=1&column=7&margin-w=5&margin-h=15&no-bg=true" alt="TROPHY" />
 </p>
 
----
-
-## 🐍 Actividad Anual
-
-<p align="center">
-  <img src="https://github.com/DevAimar8/DevAimar8/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
