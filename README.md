@@ -103,13 +103,13 @@
 
 <div align="Center">
 
-| CtorW's Stats | Ultimate Streak |
+| My Stats | Streak |
 | ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevAimar8&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevAimar8&theme=onedark&hide_border=true) |
 
-| Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+| Top Languages |
+| ------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAimar8&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
 
 
 </div>
