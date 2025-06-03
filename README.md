@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Aimar / DevAimar8 ✨</h1> 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/157213550?v=4" width="150" style="border-radius: 50%" alt="Foto de perfil de Aimar"/>
+  <img src="https://avatars.githubusercontent.com/u/160763813?s=400&u=105ec69cf88f27ca26454b11437d2d8691d7eb20&v=4" width="150" style="border-radius: 50%" alt="Foto de perfil de Aimar"/>
 </p>
 
 <p align="center">
