@@ -39,7 +39,7 @@
 
   <!-- Proyecto 1 -->
   <a href="https://github.com/DevAimar8/CalculadoraFlutter" target="_blank">
-    <img src="https://github.com/DevAimar8/CalculadoraFlutter/raw/main/preview.png" alt="Calculadora Flutter" width="250" style="border-radius: 10px; margin: 10px;" />
+    <img src="https://github.com/DevAimar8/CalculadoraFlutter/blob/main/CalculadoraFlutter.png" alt="Calculadora Flutter" width="250" style="border-radius: 10px; margin: 10px;" />
     <br />
     <img src="https://img.shields.io/badge/Calculadora%20Flutter-Repo-black?style=for-the-badge&logo=github" alt="Calculadora Flutter repo" />
   </a>
@@ -53,14 +53,14 @@
 
   <!-- Proyecto 3 -->
   <a href="https://github.com/DevAimar8/VAARI" target="_blank">
-    <img src="https://github.com/DevAimar8/VAARI/raw/main/preview.png" alt="VAARI App" width="250" style="border-radius: 10px; margin: 10px;" />
+    <img src="https://github.com/DevAimar8/VAARI/blob/main/VAARI.png" alt="VAARI App" width="250" style="border-radius: 10px; margin: 10px;" />
     <br />
     <img src="https://img.shields.io/badge/VAARI-Repo-black?style=for-the-badge&logo=github" alt="VAARI repo" />
   </a>
 
   <!-- Proyecto 4 -->
   <a href="https://github.com/DevAimar8/UNIP" target="_blank">
-    <img src="https://github.com/DevAimar8/UNIP/raw/main/preview.png" alt="UNIP App" width="250" style="border-radius: 10px; margin: 10px;" />
+    <img src="https://github.com/DevAimar8/UNIP/blob/main/UNIP.png" alt="UNIP App" width="250" style="border-radius: 10px; margin: 10px;" />
     <br />
     <img src="https://img.shields.io/badge/UNIP-Repo-black?style=for-the-badge&logo=github" alt="UNIP repo" />
   </a>
