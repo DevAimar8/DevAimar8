@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,dart,flutter,py,css,html,js,mysql,sqlite,firebase,github,docker,eclipse,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,dart,flutter,py,css,html,js,mysql,sqlite,firebase,git,github,docker,eclipse,vscode&perline=12" />
   </a>
 </p>
 
@@ -35,48 +35,35 @@
 
 ## 🚀 Algunos Proyectos Destacados
 
-<p align="center">
-  <a href="https://github.com/DevAimar8/CalculadoraFlutter">
-    <img src="https://raw.githubusercontent.com/DevAimar8/CalculadoraFlutter/main/CalculadoraFlutter.png" width="200" alt="Calculadora Flutter"/>
-    <br/><strong>🧮 Calculadora Flutter</strong>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece">
-    <img src="https://raw.githubusercontent.com/DevAimar8/VisualizadorPersonajes-OnePiece/main/onepiece.png" width="200" alt="Visualizador One Piece"/>
-    <br/><strong>🏴‍☠️ Visualizador de Personajes (One Piece)</strong>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DevAimar8/VAARI">
-    <img src="https://raw.githubusercontent.com/DevAimar8/VAARI/main/VAARI.png" width="200" alt="VAARI App"/>
-    <br/><strong>🤖 VAARI – Asistente Virtual</strong>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DevAimar8/UNIP">
-    <img src="https://raw.githubusercontent.com/DevAimar8/UNIP/main/UNIP.png" width="200" alt="UNIP App"/>
-    <br/><strong>🎓 UNIP – Test Vocacional Universitario</strong>
-  </a>
-</p>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<table align="center">
-<tr>
-<td width="60%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAimar8&theme=dark&hide_border=false" />
-</td>
-<td width="40%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DevAimar8&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DevAimar8/CalculadoraFlutter">
+        <img src="https://raw.githubusercontent.com/DevAimar8/CalculadoraFlutter/main/CalculadoraFlutter.png" width="150px" alt="Calculadora Flutter"/><br/>
+        <strong>🧮 Calculadora Flutter</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece">
+        <img src="https://raw.githubusercontent.com/DevAimar8/VisualizadorPersonajes-OnePiece/main/onepiece.png" width="150px" alt="Visualizador One Piece"/><br/>
+        <strong>🏴‍☠️ Visualizador One Piece</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DevAimar8/VAARI">
+        <img src="https://raw.githubusercontent.com/DevAimar8/VAARI/main/VAARI.png" width="150px" alt="VAARI"/><br/>
+        <strong>🤖 VAARI – Asistente</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DevAimar8/UNIP">
+        <img src="https://raw.githubusercontent.com/DevAimar8/UNIP/main/UNIP.png" width="150px" alt="UNIP"/><br/>
+        <strong>🎓 UNIP – Test Vocacional</strong>
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
