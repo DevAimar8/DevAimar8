@@ -64,6 +64,12 @@
         <strong>🎓 UNIP – Test Vocacional</strong>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/DevAimar8/LocuraUFC">
+        <img src="https://github.com/DevAimar8/LocuraUFC/blob/main/imagenes/logo.png" width="150px" alt="Locura UFC"/><br/>
+        <strong>🥋 Locura UFC – Web UFC</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
