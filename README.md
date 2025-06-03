@@ -1,4 +1,7 @@
 <h1 align="center">Hola 👋, soy Aimar / DevAimar8 ✨</h1> 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/157213550?v=4" width="150" style="border-radius: 50%" alt="Foto de perfil de Aimar"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aimar-esqueta-albert-a0a33b302/" target="blank">
