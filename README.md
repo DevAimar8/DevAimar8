@@ -54,7 +54,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/DevAimar8/Proyectos-Java-Basicos">
-        <img src="https://raw.githubusercontent.com/DevAimar8/Proyectos-Java-Basicos/main/ConexionMySQL/logo.png" width="150px" alt="Proyectos Java Básicos"/><br/>
+        <img src="https://github.com/DevAimar8/Proyectos-Java-Basicos/blob/main/java.jpg" width="150px" alt="Proyectos Java Básicos"/><br/>
         <strong>☕ Proyectos Java Básicos</strong>
       </a>
     </td>
