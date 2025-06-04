@@ -49,7 +49,7 @@
     <td align="center">
       <a href="https://github.com/DevAimar8/UNIP">
         <img src="https://raw.githubusercontent.com/DevAimar8/UNIP/main/UNIP.png" width="150px" alt="UNIP"/><br/>
-        <strong>🎓 UNIP – Test Vocacional</strong>
+        <strong>🎓 UNIP – Orientación educacional</strong>
       </a>
     </td>
     <td align="center">
