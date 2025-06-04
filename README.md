@@ -53,6 +53,12 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/DevAimar8/Proyectos-Java-Basicos">
+        <img src="https://raw.githubusercontent.com/DevAimar8/Proyectos-Java-Basicos/main/ConexionMySQL/logo.png" width="150px" alt="Proyectos Java Básicos"/><br/>
+        <strong>☕ Proyectos Java Básicos</strong>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/DevAimar8/CalculadoraFlutter">
         <img src="https://raw.githubusercontent.com/DevAimar8/CalculadoraFlutter/main/CalculadoraFlutter.png" width="150px" alt="Calculadora Flutter"/><br/>
         <strong>🧮 Calculadora Flutter</strong>
