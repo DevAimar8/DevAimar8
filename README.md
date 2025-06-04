@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,dart,flutter,py,css,html,js,mysql,sqlite,firebase,git,github,docker,eclipse,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,dart,flutter,py,css,html,js,mysql,sqlite,mongodb,firebase,git,github,docker,eclipse,vscode&perline=12" />
   </a>
 </p>
 
@@ -41,18 +41,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/DevAimar8/CalculadoraFlutter">
-        <img src="https://raw.githubusercontent.com/DevAimar8/CalculadoraFlutter/main/CalculadoraFlutter.png" width="150px" alt="Calculadora Flutter"/><br/>
-        <strong>🧮 Calculadora Flutter</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece">
-        <img src="https://raw.githubusercontent.com/DevAimar8/VisualizadorPersonajes-OnePiece/main/onepiece.png" width="150px" alt="Visualizador One Piece"/><br/>
-        <strong>🏴‍☠️ Visualizador One Piece</strong>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/DevAimar8/VAARI">
         <img src="https://raw.githubusercontent.com/DevAimar8/VAARI/main/VAARI.png" width="150px" alt="VAARI"/><br/>
         <strong>🤖 VAARI – Asistente</strong>
@@ -62,6 +50,18 @@
       <a href="https://github.com/DevAimar8/UNIP">
         <img src="https://raw.githubusercontent.com/DevAimar8/UNIP/main/UNIP.png" width="150px" alt="UNIP"/><br/>
         <strong>🎓 UNIP – Test Vocacional</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DevAimar8/CalculadoraFlutter">
+        <img src="https://raw.githubusercontent.com/DevAimar8/CalculadoraFlutter/main/CalculadoraFlutter.png" width="150px" alt="Calculadora Flutter"/><br/>
+        <strong>🧮 Calculadora Flutter</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece">
+        <img src="https://raw.githubusercontent.com/DevAimar8/VisualizadorPersonajes-OnePiece/main/onepiece.png" width="150px" alt="Visualizador One Piece"/><br/>
+        <strong>🏴‍☠️ Visualizador One Piece</strong>
       </a>
     </td>
     <td align="center">
