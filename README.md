@@ -67,7 +67,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/DevAimar8/LocuraUFC">
-        <img src="https://github.com/DevAimar8/LocuraUFC/imagenes/logo.png" width="120px"/><br/>
+        <img src="https://github.com/DevAimar8/LocuraUFC/Imágenes/logo.png" width="120px"/><br/>
         <strong>🥋 Locura UFC – Web temática</strong>
       </a>
     </td>
