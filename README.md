@@ -23,7 +23,7 @@
 🎓 Graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 📚 Actualmente especializándome en **Big Data e Inteligencia Artificial**  
 💡 Apasionado por la **IA**, la **tecnología con propósito** y el desarrollo de **apps móviles y web**  
-📱 Explorando tecnologías como **Flutter, Java, Python, Firebase, Docker, MongoDB**  
+📱 Explorando tecnologías como **Flutter, Java, Python, Firebase, React, SQL**  
 🎯 Motivado por **aprender, crear** y **resolver problemas reales con soluciones creativas**  
 📫 Contacto: **aimaresquetaalbert@gmail.com**
 
