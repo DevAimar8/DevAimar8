@@ -43,43 +43,43 @@
   <tr>
     <td align="center">
       <a href="https://github.com/DevAimar8/VAARI">
-        <img src="https://raw.githubusercontent.com/DevAimar8/VAARI/main/VAARI.png" width="120px"/><br/>
+        <img src="https://raw.githubusercontent.com/DevAimar8/VAARI/main/VAARI.png" height="180px"width="120px"/><br/>
         <strong>🤖 VAARI – Asistente IA</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/DevAimar8/UNIP">
-        <img src="https://raw.githubusercontent.com/DevAimar8/UNIP/main/UNIP.png" width="120px"/><br/>
+        <img src="https://raw.githubusercontent.com/DevAimar8/UNIP/main/UNIP.png" height="180px"width="120px"/><br/>
         <strong>🎓 UNIP – Orientación educativa</strong>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/DevAimar8/CalculadoraFlutter">
-        <img src="https://raw.githubusercontent.com/DevAimar8/CalculadoraFlutter/main/CalculadoraFlutter.png" width="120px"/><br/>
-        <strong>🧮 Calculadora Flutter</strong>
-      </a>
-    </td>
-        <td align="center">
       <a href="https://github.com/DevAimar8/FincamelillaSL">
-        <img src="https://raw.githubusercontent.com/DevAimar8/FincamelillaSL/main/fincamel-1.webp" width="120px"/><br/>
+        <img src="https://raw.githubusercontent.com/DevAimar8/FincamelillaSL/main/fincamel-1.webp" height="180px"width="120px"/><br/>
         <strong>🏠 Página web de Fincamel SL</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece">
-        <img src="https://raw.githubusercontent.com/DevAimar8/VisualizadorPersonajes-OnePiece/main/onepiece.png" width="120px"/><br/>
+        <img src="https://raw.githubusercontent.com/DevAimar8/VisualizadorPersonajes-OnePiece/main/onepiece.png" height="180px"width="120px"/><br/>
         <strong>🏴‍☠️ Visualizador One Piece</strong>
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece">
+        <img src="https://raw.githubusercontent.com/DevAimar8/Proyectos-Python/main/TkinterPython.png" height="180px"width="120px"/><br/>
+        <strong>🐍 Python - Tkinter </strong>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/DevAimar8/LocuraUFC">
-        <img src="https://raw.githubusercontent.com/DevAimar8/LocuraUFC/main/Imágenes/logo.png" width="120px"/><br/>
+        <img src="https://raw.githubusercontent.com/DevAimar8/LocuraUFC/main/Imágenes/logo.png" height="180px"width="120px"/><br/>
         <strong>🥋 Locura UFC – Web temática</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/DevAimar8/Proyectos-Java-Basicos">
-        <img src="https://github.com/DevAimar8/Proyectos-Java-Basicos/blob/main/java.jpg" width="120px"/><br/>
+        <img src="https://github.com/DevAimar8/Proyectos-Java-Basicos/blob/main/java.jpg" height="180px"width="120px"/><br/>
         <strong>☕ Proyectos Java Básicos</strong>
       </a>
     </td>
