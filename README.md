@@ -107,5 +107,5 @@
 
 > *“La formación en informática no puede convertir a nadie en experto programador, de la
 misma forma que estudiar pinceles y pigmentos no puede hacer a alguien un experto pintor”*  
-> Visita mi web personal 👉 [devaimar8.github.io/PortfolioAimar](https://devaimar8.github.io/PortfolioAimar/)
+> Visita mi web personal 👉 https://portfolio-aimar.vercel.app/
 
