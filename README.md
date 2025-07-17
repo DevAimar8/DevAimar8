@@ -11,7 +11,7 @@
   <a href="mailto:aimaresquetaalbert@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://devaimar8.github.io/PortfolioAimar/" target="_blank">
+  <a href="https://portfolio-aimar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio%20Web-282C34?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Web" />
   </a>
 </p>
