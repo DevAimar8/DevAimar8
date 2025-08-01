@@ -32,7 +32,7 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,dart,flutter,py,html,css,js,mysql,sqlite,mongodb,firebase,git,github,docker,vscode,react,nodejs,tailwindcss,rapidapi,fastapi,pycharm,eclipse&perline=10" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,dart,flutter,py,html,css,js,mysql,sqlite,mongodb,firebase,git,github,docker,vscode,react,nodejs,tailwindcss,fastapi,pycharm,eclipse&perline=10" />
 </p>
 
 ---
