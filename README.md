@@ -44,10 +44,10 @@ Además, tengo experiencia real en entornos profesionales, desde prácticas corp
 
 | Proyecto     | Descripción                                                                 | Tecnologías principales                      | Enlace al repositorio                            |
 |--------------|------------------------------------------------------------------------------|----------------------------------------------|--------------------------------------------------|
-| VAARI        | Aplicación web de control y asistencia técnica en centros de día y residencias | React, FastAPI, Python, Firebase, Docker     | [Ver en GitHub](https://github.com/DevAimar8/VAARI) |
-| UNIP         | App Flutter para orientación vocacional: test interactivo, buscador y comunidad | Flutter, Dart, Firebase, MySQL               | [Ver en GitHub](https://github.com/DevAimar8/UNIP) |
-| Fincamel SL  | Web corporativa responsive para finca rural con formulario de contacto       | HTML, CSS, JavaScript, GitHub Pages          | [Ver en GitHub](https://github.com/DevAimar8/FincamelillaSL) |
-| Visualizador One Piece | App interactiva para visualizar personajes del anime One Piece        | React, API RESTful                           | [Ver en GitHub](https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece) |
+| VAARI        | Aplicación web de control y asistencia técnica en centros de día y residencias | Java, MySQL WorkBench Docker     | [Ver en GitHub](https://github.com/DevAimar8/VAARI) |
+| UNIP         | App Flutter para orientación vocacional: test interactivo, buscador y comunidad | Flutter, Dart, Firebase, HuggingFace               | [Ver en GitHub](https://github.com/DevAimar8/UNIP) |
+| Fincamel SL  | Web corporativa responsive para inmobiliaria con formulario de contacto       | HTML, CSS, JavaScript, GitHub Pages          | [Ver en GitHub](https://github.com/DevAimar8/FincamelillaSL) |
+| Visualizador One Piece | App interactiva para visualizar personajes del anime One Piece        | Flutter, Dart                           | [Ver en GitHub](https://github.com/DevAimar8/VisualizadorPersonajes-OnePiece) |
 | Python Tkinter | Proyecto de interfaz gráfica educativo con Python y Tkinter                 | Python, Tkinter                              | [Ver en GitHub](https://github.com/DevAimar8/Proyectos-Python) |
 | Locura UFC   | Web temática sobre MMA/UFC con diseño dinámico                                | HTML, CSS, JavaScript                        | [Ver en GitHub](https://github.com/DevAimar8/LocuraUFC) |
 
